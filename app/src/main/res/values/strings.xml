@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Client Twitter</string>
+    <string name="login_label">Connect to Twitter</string>
+    <string name="Tweet">Tweet</string>
+    <string name="characterCount">140</string>
+    <string name="TweetArea">What\'s happening?</string>
+    <string name="Reply">Reply</string>
+</resources>

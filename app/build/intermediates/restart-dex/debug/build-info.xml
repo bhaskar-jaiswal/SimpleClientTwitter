@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="145646023472739"
+    token="-6904429282702580951" >
+
+    <task
+        name="javac"
+        duration="2278" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="31" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+
+    <build timestamp="144959818259803" >
+        <artifact
+            location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="145146096050472" >
+        <artifact
+            location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="145560069537577" >
+        <artifact
+            location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="145646023472739" >
+        <artifact
+            location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

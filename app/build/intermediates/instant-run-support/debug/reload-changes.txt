@@ -1,0 +1,6 @@
+CHANGED,/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/parceler/Parceler$$Parcels$override.class
+CHANGED,/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/simpleclienttwitter/dialog/TweetDetailDialog$4$override.class
+CHANGED,/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/simpleclienttwitter/dialog/TweetDetailDialog$2$override.class
+CHANGED,/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/simpleclienttwitter/dialog/TweetDetailDialog$3$override.class
+CHANGED,/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/bhaskarjaiswal/CodePath/SimpleClientTwitter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/simpleclienttwitter/dialog/TweetDetailDialog$override.class
