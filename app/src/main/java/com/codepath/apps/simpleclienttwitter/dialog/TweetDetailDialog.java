@@ -161,7 +161,7 @@ public class TweetDetailDialog extends DialogFragment {
         btnReply.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                onReply.onReplyTweet(etEditReply.getText().toString(), Long.toString(tweet.getUid()));
+				onReply.onReplyTweet(etEditReply.getText().toString(), Long.toString(tweet.getUid()));
                 etEditReply.setText("");
                 tvReplyTo.setVisibility(View.VISIBLE);
                 tvCharacters.setVisibility(View.INVISIBLE);

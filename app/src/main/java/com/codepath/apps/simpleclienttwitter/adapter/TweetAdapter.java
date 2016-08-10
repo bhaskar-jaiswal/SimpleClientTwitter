@@ -107,10 +107,11 @@ public class TweetAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
                         RoundedBitmapDrawable circularBitmapDrawable =
                                 RoundedBitmapDrawableFactory.create(view.getContext().getResources(), resource);
                         circularBitmapDrawable.setCornerRadius(15);
-                        Log.d("Tweetimage",viewTweet.getIvTweetImage().toString());
                         viewTweet.getIvTweetImage().setImageDrawable(circularBitmapDrawable);
                     }
                 });
+            }else{
+                viewTweet.getIvTweetImage().setImageResource(0);
             }
         }
     }
